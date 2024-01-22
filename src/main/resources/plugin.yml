@@ -1,0 +1,5 @@
+name: BSManager
+version: '${project.version}'
+main: com.github.beadieststar64.plugins.bsseries.bsmanager.BSManager
+api-version: '1.20'
+depend: [BSCore]

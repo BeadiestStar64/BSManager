@@ -1,0 +1,14 @@
+BackupDestinationPath: #Use absolute path
+
+#Backup timing set
+BackupTime:
+  Hour: 1
+  Minute: 0
+
+LastBackupTime:
+  Hour:
+  Minute:
+
+LastCheckTime:
+  Hour:
+  Minute:

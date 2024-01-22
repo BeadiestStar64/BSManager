@@ -1,0 +1,7 @@
+# +----------------------------------- CAUTION! -----------------------------------+
+# | Do not change the text inside the braces!                                      |
+# | If used with the wrong value, the message function will not function properly! |
+# +--------------------------------------------------------------------------------+
+
+HookMassage: "§b<HookedPlugin> §ahooked into §b<HookPlugin>"
+ArgumentLengthError: "§cThe lengths of the arguments not match!"
